@@ -28,5 +28,19 @@
     <Filter Include="Source Files\Graph">
       <UniqueIdentifier>{96e3ccd3-8d33-4e14-a59e-634eae26c16f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Datastructures">
+      <UniqueIdentifier>{eab7472d-b1b1-4072-a5eb-52ea85d4219b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Theory">
+      <UniqueIdentifier>{75f0f22d-7505-4bb4-83c8-2ada84dd6308}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MonotonicQueue.cpp">
+      <Filter>Source Files\Datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="Grundy Numbers.cpp">
+      <Filter>Source Files\Game Theory</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
