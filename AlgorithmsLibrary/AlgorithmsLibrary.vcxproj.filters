@@ -42,5 +42,16 @@
     <ClCompile Include="Grundy Numbers.cpp">
       <Filter>Source Files\Game Theory</Filter>
     </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BIT.cpp">
+      <Filter>Source Files\Datastructures</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="input.in">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
