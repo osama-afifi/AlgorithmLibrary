@@ -48,6 +48,9 @@
     <ClCompile Include="BIT.cpp">
       <Filter>Source Files\Datastructures</Filter>
     </ClCompile>
+    <ClCompile Include="Dijkstra.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">
