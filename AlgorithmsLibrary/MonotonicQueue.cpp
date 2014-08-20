@@ -10,16 +10,19 @@ struct monotonic_queue {
 		q1.pop_front();
 		return ans;
 	}
-	void push(T i){
+	void push(T i)
+	{
 		while(q2.size() && q2.back() < i)
 			q2.pop_back();
 		q2.push_back(i);
 		q1.push_back(i);
 	}
-	T max() {
+	T max()
+	{
 		return q2.front();
 	}
-	T size() {
+	T size() 
+	{
 		return q1.size();
 	}
 };
