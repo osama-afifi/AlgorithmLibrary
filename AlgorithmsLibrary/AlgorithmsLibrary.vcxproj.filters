@@ -57,6 +57,9 @@
     <ClCompile Include="SkipList.cpp">
       <Filter>Source Files\Datastructures</Filter>
     </ClCompile>
+    <ClCompile Include="Treap-Range.cpp">
+      <Filter>Source Files\Datastructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">

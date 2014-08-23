@@ -150,9 +150,6 @@ inline Node *eraseIdx(Node *root, int idx)
 	return balance(root);
 }
 
-int r, c, a, b;
-nt cum[252][252];
-
 int main() 
 {
 	// Run Example
