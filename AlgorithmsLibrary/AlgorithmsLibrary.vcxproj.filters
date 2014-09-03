@@ -60,6 +60,9 @@
     <ClCompile Include="Treap-Range.cpp">
       <Filter>Source Files\Datastructures</Filter>
     </ClCompile>
+    <ClCompile Include="SolvingLinearRecurrence.cpp">
+      <Filter>Source Files\Number_Theory</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">
