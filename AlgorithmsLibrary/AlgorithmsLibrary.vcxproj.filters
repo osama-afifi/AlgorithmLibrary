@@ -63,6 +63,9 @@
     <ClCompile Include="SolvingLinearRecurrence.cpp">
       <Filter>Source Files\Number_Theory</Filter>
     </ClCompile>
+    <ClCompile Include="SCC.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">
