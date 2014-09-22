@@ -63,7 +63,37 @@
     <ClCompile Include="SolvingLinearRecurrence.cpp">
       <Filter>Source Files\Number_Theory</Filter>
     </ClCompile>
-    <ClCompile Include="SCC.cpp">
+    <ClCompile Include="MaxFlow - MinCut.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxFlow - EdmondKarp.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="FloydWarshal - PrintingPath.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="EulerTour.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Bipartite Check.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumCostMaxFlow.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Minimum Spanning Tree - Kruskal.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Strongly Connected Components.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="LCA %28Euler%29 - Kth Root.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="LCA %28Sparse Table%29.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Bellman Ford - Negative Cycle Detection.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
   </ItemGroup>
