@@ -96,6 +96,9 @@
     <ClCompile Include="Bellman Ford - Negative Cycle Detection.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
+    <ClCompile Include="Double Hashing.cpp">
+      <Filter>Source Files\String_Matching</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">
