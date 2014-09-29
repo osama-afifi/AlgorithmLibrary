@@ -42,9 +42,6 @@
     <ClCompile Include="Grundy Numbers.cpp">
       <Filter>Source Files\Game Theory</Filter>
     </ClCompile>
-    <ClCompile Include="Test.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="BIT.cpp">
       <Filter>Source Files\Datastructures</Filter>
     </ClCompile>
@@ -100,6 +97,9 @@
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
     <ClCompile Include="Hashing.cpp">
+      <Filter>Source Files\String_Matching</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP.cpp">
       <Filter>Source Files\String_Matching</Filter>
     </ClCompile>
   </ItemGroup>

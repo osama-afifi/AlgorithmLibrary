@@ -11,18 +11,8 @@
 using namespace std;
 
 typedef long long LL;
-#define OO 1e9
-#define EPS 1e-9
-#define FOR(i, s, e) for(int i = s; i < e; ++i)
-#define SET(c, v) memset(c, v, sizeof c)
-#define ALL(c) c.begin(), c.end()
-
 
 using namespace std;
-
-typedef long long ll;
-
-
 
 LL M  = 1e9+7;
 LL B  = 29;
