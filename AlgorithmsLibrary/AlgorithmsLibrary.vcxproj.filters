@@ -84,9 +84,6 @@
     <ClCompile Include="Minimum Spanning Tree - Kruskal.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
-    <ClCompile Include="Strongly Connected Components.cpp">
-      <Filter>Source Files\Graph</Filter>
-    </ClCompile>
     <ClCompile Include="LCA %28Euler%29 - Kth Root.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
@@ -97,6 +94,12 @@
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
     <ClCompile Include="Double Hashing.cpp">
+      <Filter>Source Files\String_Matching</Filter>
+    </ClCompile>
+    <ClCompile Include="Strongly Connected Components- Tarjan.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Hashing.cpp">
       <Filter>Source Files\String_Matching</Filter>
     </ClCompile>
   </ItemGroup>
