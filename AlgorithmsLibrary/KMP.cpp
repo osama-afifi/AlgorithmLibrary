@@ -43,7 +43,10 @@ vector<int> KMP(string &p, string&s, int F[])
 		while(q && s[i]!=p[q]) q = F[q-1];
 		if(s[i]==p[q])	q++;
 		if(q==p.length())
+		{
 			M.push_back(i-p.length()+1);
+			q = F[q-1];
+		}
 	}
 	return M;
 }
