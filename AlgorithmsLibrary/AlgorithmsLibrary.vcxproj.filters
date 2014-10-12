@@ -102,6 +102,12 @@
     <ClCompile Include="KMP.cpp">
       <Filter>Source Files\String_Matching</Filter>
     </ClCompile>
+    <ClCompile Include="Bipartite Matching - Quadratic time.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="RotatePointAroundPivot.cpp">
+      <Filter>Source Files\Geometry</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">
