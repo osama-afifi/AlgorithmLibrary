@@ -108,6 +108,9 @@
     <ClCompile Include="RotatePointAroundPivot.cpp">
       <Filter>Source Files\Geometry</Filter>
     </ClCompile>
+    <ClCompile Include="Segment Tree - Lazy Update.cpp">
+      <Filter>Source Files\Datastructures</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">
