@@ -111,6 +111,9 @@
     <ClCompile Include="Segment Tree - Lazy Update.cpp">
       <Filter>Source Files\Datastructures</Filter>
     </ClCompile>
+    <ClCompile Include="Cycle-Longest Path Finding - DFS Coloring.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">
