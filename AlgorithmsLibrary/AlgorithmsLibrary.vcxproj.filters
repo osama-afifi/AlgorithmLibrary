@@ -34,6 +34,9 @@
     <Filter Include="Source Files\Game Theory">
       <UniqueIdentifier>{75f0f22d-7505-4bb4-83c8-2ada84dd6308}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Misc">
+      <UniqueIdentifier>{30a713b4-3f78-4bc2-a9df-65bfe81d920e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MonotonicQueue.cpp">
@@ -113,6 +116,12 @@
     </ClCompile>
     <ClCompile Include="Cycle-Longest Path Finding - DFS Coloring.cpp">
       <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="ModInverse - Euclidean.cpp">
+      <Filter>Source Files\Number_Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="MedianMaitaining.cpp">
+      <Filter>Source Files\Misc</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
