@@ -129,6 +129,9 @@
     <ClCompile Include="CalculatingCyclesLengths(CyclePerNode).cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
+    <ClCompile Include="BuildingTreeRecOnArray.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="input.in">
